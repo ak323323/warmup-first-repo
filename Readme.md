@@ -1,8 +1,7 @@
 # Basic GIT learnings 
 
-## Basic Learnings:
+## What is GIT?
 
-**What is GIT?**
 ### Git is a version control system that helps in tracking changes made in code, collaborating with other and reverting back to previous versions in case of failure of updates.
 
 ## Core concepts:
